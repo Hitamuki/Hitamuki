@@ -10,15 +10,21 @@
   </a>
 </p>
 
-## skill sets
+## Personality
+
+**[16Personalities](https://www.16personalities.com/ja)**: INTJ-T / INFJ-T<br>
+**[Enneagram](https://enneagram-personality.com/ja)**: 4w5 / 1w2<br>
+**[Tritype](https://ai-know.ai/consulting-detail/14)**: 4-5-8 / 1-4-6
+
+## Skill sets
 
 ### Language / Framework / Library
 <p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" title="C#" /></a>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" /></a>
   <a href="https://angular.io/docs"><img src="https://skillicons.dev/icons?i=angular" title="Angular" /></a>
   <a href="https://getbootstrap.com/docs/"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" title="C#" /></a>
 </p>
 
 ### Infrastructure / Middleware
@@ -36,7 +42,7 @@
   <a href="https://learn.microsoft.com/en-us/visualstudio/"><img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" /></a>
 </p>
 
-## be interested
+## Interests
 
 ### Language / Framework / Library
 <p align="left">
@@ -53,10 +59,6 @@
   <a href="https://jestjs.io/docs/getting-started"><img src="https://skillicons.dev/icons?i=jest" title="Jest" /></a>
   <a href="https://docs.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" title="Cypress" /></a>
   <a href="https://redux.js.org/introduction/getting-started"><img src="https://skillicons.dev/icons?i=redux" title="Redux" /></a>
-  <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" title="Bun" /></a>
-  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
-  <a href="https://pnpm.io/"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
-  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" title="npm" /></a>
 </p>
 
 ### Infrastructure / Middleware
@@ -67,15 +69,20 @@
   <a href="https://kubernetes.io/docs/"><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /></a>
   <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
-  <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" title="WebAssembly" /></a>
+  <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel" /></a>
 </p>
 
 ### Tool / Other
 <p align="left">
-  <a href="https://www.vim.org/docs.php"><img src="https://skillicons.dev/icons?i=vim" title="Vim" /></a>
-  <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
+  <a href="https://pnpm.io/"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
+  <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" title="Bun" /></a>
+  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
+  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" title="npm" /></a>
   <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+  <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
+  <a href="https://www.vim.org/docs.php"><img src="https://skillicons.dev/icons?i=vim" title="Vim" /></a>
   <a href="https://www.gnu.org/software/bash/manual/"><img src="https://skillicons.dev/icons?i=bash" title="Bash" /></a>
+  <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" title="WebAssembly" /></a>
   <a href="https://www.notion.so/help"><img src="https://skillicons.dev/icons?i=notion" title="Notion" /></a>
   <a href="https://docs.obsidian.md/Home"><img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian" /></a>
 </p>
