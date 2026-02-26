@@ -1,20 +1,20 @@
-<h1 align="center">About Me</h1>
-<h3 align="center">I'm a web frontend and backend developer from Japan</h3>
+<h1 align="center">About Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+application+developer+from+Japan" alt="Typing SVG" /></h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitamuki&show_icons=true&count_private=true&layout=compact&theme=github" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hitamuki&show_icons=true&count_private=true&theme=github" />
+    <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hitamuki&show_icons=true&count_private=true&theme=dark" />
   </a>
 </p>
 
 ## Personality
 
 **[16Personalities](https://www.16personalities.com/ja)**: INTJ-T / INFJ-T<br>
-**[Enneagram](https://enneagram-personality.com/ja)**: 4w5 / 1w2<br>
-**[Tritype](https://ai-know.ai/consulting-detail/14)**: 4-5-8 / 1-4-6
+**[Enneagram](https://enneagram-personality.com/ja)**: 4w5<br>
+**[Tritype](https://ai-know.ai/consulting-detail/14)**: 4-5-8
 
 ## Skill sets
 
