@@ -16,6 +16,19 @@
 **[Enneagram](https://enneagram-personality.com/ja)**: 4w5<br>
 **[Tritype](https://ai-know.ai/consulting-detail/14)**: 4-5-8
 
+## Vision
+
+To become a versatile engineer who can remain valuable in the age of AI.
+
+In the near future, engineers will need to understand the entire web stack —  
+**Frontend / Backend / Cloud / Architecture** — rather than specializing in only one layer.
+
+My current focus is expanding my technical breadth and increasing the number of tools and approaches I can use.
+
+At the same time, I hope to gain opportunities to take on **leadership responsibilities** within engineering projects.
+
+I want to grow into an engineer who can contribute both as a **builder and as a technical leader (PL)** — someone who can design systems, write code, and guide projects forward.
+
 ## Skill sets
 
 ### Language / Framework / Library
