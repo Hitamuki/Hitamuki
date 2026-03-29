@@ -1,24 +1,41 @@
-<h1 align="center">About Me</h1>
-<h3 align="center">I'm a web frontend and backend developer from Japan</h3>
+<h1 align="center">About Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+application+developer+from+Japan" alt="Typing SVG" /></h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitamuki&show_icons=true&count_private=true&layout=compact&theme=github" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hitamuki&show_icons=true&count_private=true&theme=github" />
+    <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hitamuki&show_icons=true&count_private=true&theme=dark" />
   </a>
 </p>
 
-## skill sets
+## Personality
+
+**[16Personalities](https://www.16personalities.com/ja)**: INFJ-T<br>
+**[Enneagram](https://enneagram-personality.com/ja)**: 4w5<br>
+**[Tritype](https://ai-know.ai/consulting-detail/14)**: 4-5-8
+
+## Vision
+
+I aim to become an engineer who can remain valuable even as the role of engineers changes with the advancement of AI.
+
+In the near future, web application development, engineers will need to understand the entire stack — **Frontend / Backend / Cloud / Architecture** — rather than being confined to a specific phase or stack.
+
+Currently, I am focused on broadening expanding the range of tools and approaches I can use.
+At the same time, I am seeking opportunities to be involved in **full-cycle and full-stack** development within projects.
+Recentry, I am particularly interested in modern frontend development using `React` and `Next.js`, as well as building and managing cloud infrastructure with `Terraform`.
+
+In the long term, I want to grow into an engineer who can contribute across all aspects of system development, with system development as my core focus.
+## Skill sets
 
 ### Language / Framework / Library
 <p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" title="C#" /></a>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" /></a>
   <a href="https://angular.io/docs"><img src="https://skillicons.dev/icons?i=angular" title="Angular" /></a>
   <a href="https://getbootstrap.com/docs/"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" title="C#" /></a>
 </p>
 
 ### Infrastructure / Middleware
@@ -36,7 +53,7 @@
   <a href="https://learn.microsoft.com/en-us/visualstudio/"><img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" /></a>
 </p>
 
-## be interested
+## Interests
 
 ### Language / Framework / Library
 <p align="left">
@@ -53,10 +70,6 @@
   <a href="https://jestjs.io/docs/getting-started"><img src="https://skillicons.dev/icons?i=jest" title="Jest" /></a>
   <a href="https://docs.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" title="Cypress" /></a>
   <a href="https://redux.js.org/introduction/getting-started"><img src="https://skillicons.dev/icons?i=redux" title="Redux" /></a>
-  <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" title="Bun" /></a>
-  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
-  <a href="https://pnpm.io/"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
-  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" title="npm" /></a>
 </p>
 
 ### Infrastructure / Middleware
@@ -67,15 +80,20 @@
   <a href="https://kubernetes.io/docs/"><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /></a>
   <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
-  <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" title="WebAssembly" /></a>
+  <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel" /></a>
 </p>
 
 ### Tool / Other
 <p align="left">
-  <a href="https://www.vim.org/docs.php"><img src="https://skillicons.dev/icons?i=vim" title="Vim" /></a>
-  <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
+  <a href="https://pnpm.io/"><img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" /></a>
+  <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" title="Bun" /></a>
+  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" title="Vite" /></a>
+  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" title="npm" /></a>
   <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+  <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
+  <a href="https://www.vim.org/docs.php"><img src="https://skillicons.dev/icons?i=vim" title="Vim" /></a>
   <a href="https://www.gnu.org/software/bash/manual/"><img src="https://skillicons.dev/icons?i=bash" title="Bash" /></a>
+  <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" title="WebAssembly" /></a>
   <a href="https://www.notion.so/help"><img src="https://skillicons.dev/icons?i=notion" title="Notion" /></a>
   <a href="https://docs.obsidian.md/Home"><img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian" /></a>
 </p>
